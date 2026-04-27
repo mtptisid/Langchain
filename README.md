@@ -51,7 +51,7 @@ Stateful multi-step agents with loops, conditionals, and human-in-the-loop using
 
 | Notebook | Description | Open in Colab |
 |---|---|---|
-| `01_langchain_fundamentals.ipynb` | Parts 1–5: Models, Prompts, Chains, Memory | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
+| `01_langchain_fundamentals.ipynb` | Parts 1–5: Models, Prompts, Chains, Memory | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Dr4RO8capBWqoPS3DiQpW_tKlAjxXqFd#scrollTo=7TE98JKmm43v) |
 | `02_rag_pipeline.ipynb` | Parts 6–9: Load, Chunk, Embed, Retrieve, Generate | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 | `03_agents.ipynb` | Parts 10–11: Streaming + Agents with Tools | [![Colab](https://colab.research.google.com/assets/colab-badge.svg)](#) |
 
